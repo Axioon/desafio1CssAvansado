@@ -1,0 +1,165 @@
+.principal{
+    display:flex;
+}
+
+.asidee{
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    height: 100%;
+}
+
+
+
+
+.principal1{
+    width: 257.13px;
+    height:252;
+    margin-bottom: 25px;
+		background-color: #F8F8F8;
+
+}
+    
+
+
+.styleprincipal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 100vh;
+}
+
+.juntar{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.fotosestilo{
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+}
+
+.dod{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.wa{
+    display: flex;
+    justify-content: space-between;
+}
+
+.stylebottom{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+		margin-top: 10%;
+		margin-bottom: 10%;
+
+
+}
+.color1{
+    background: #A491D2;
+    opacity: 0.5;
+    color: white;
+    border-width: 0px;
+    padding: 8px 22px;
+}
+
+.r1{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.just1{
+    margin-right: 10px;
+}
+
+
+.just{
+    margin-left: 15%;
+}
+
+.sep{
+    margin: 5px;
+}
+
+.writ{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+		color: #1B1F21;
+	
+}
+
+.subtitle{
+	font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+color: #828485;
+}
+
+.subtitle2{
+	font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #1B1F21;
+}
+
+.titlemain{
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: bolder;
+font-size: 45px;
+line-height: 53px;
+}
+
+.subtitlemain{
+	font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+letter-spacing: 0.005em;
+}
+
+.subtitlemain strong{
+	
+font-weight: bold;
+
+}
+
+.marginpicture{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.hr1{
+	background: #FFFFFF;
+border-width: 1.5px 0px;
+border-style: solid;
+border-color: #BEC1BB;
+}
+
+.nvir{
+	margin-left: 10px;
+}
